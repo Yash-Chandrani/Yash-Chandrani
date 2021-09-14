@@ -33,13 +33,6 @@ show_icons=true
 <br>
 🕵 Take a look at my repositories and let's get in touch!<br>
 <br>
-<a href=”https://www.linkedin.com/in/yash-chandrani-0618711b3/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>[![Twitter Badge](https://img.shields.io/badge/-@-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/) 
-[![Facebook Badge](https://img.shields.io/badge/--3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/)](https://www.facebook.com/) 
-[![Instagram Badge](https://img.shields.io/badge/-@-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/)](https://www.instagram.com/) 
-
-<br>
-<br>
-<br><br>
 ### 📈 Github Stats:<br>
 <hr/><br>
 <br>
