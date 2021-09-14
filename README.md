@@ -15,16 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I Am Yash! <img src=" https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px"> <br> <br>
+
+### Hi ,I Am Yash! <img src=" https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px"> <br> <br>
 <br>
 
 ![](https://komarev.com/ghpvc/?username=Yash-Chandrani&color=blue)<br>
-<h3>I am a computer science student at Indus University, a member at Rotaract Club currently focusing on Spring framework in Java. I am a cloud enthusiast exploring in devops and cloud space</h3><br>
-- 😄 Pronouns: **He/Him**<br>
+<h3>I am a computer science student at Indus University, a member at Rotaract Club currently focusing on Spring framework in Java. I am a cloud enthusiast exploring in devops and cloud space.</h3><br>
+
+- 😄 Pronouns: He/Him
 - 👨‍🏭 I’m currently pursuing **Computer Science and Engineering** <br>
-- 🏫 I’m currently learning **Backend development** <br>
-- 🙌 I’m looking to collaborate on **** <br>
-- 🤔 I’m looking for help with **Devops and Cloud Computing**<br>
+- 🏫 I’m currently learning **Backend Development with Spring framework in Java** <br>
+- 🤔 I’m looking for help with **Devops and Cloud computing**<br>
 - 🥅 2021 Goals: **Being proficient with Linux, get into Devops pick a project in GSOC and start using and contributing to it.** <br>
 <br>
 🕵 Take a look at my repositories and let's get in touch!<br>
