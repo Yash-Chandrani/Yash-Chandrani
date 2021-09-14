@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-theme=synthwave
-show_icons=true
-
-
 ### Hi ,I Am Yash! <img src=" https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px"> <br> <br>
 <br>
 
