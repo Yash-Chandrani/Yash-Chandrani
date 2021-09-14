@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <br>
 🕵 Take a look at my repositories and let's get in touch!<br>
 <br>
-[![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/yash-chandrani-0618711b3/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/yash-chandrani-0618711b3//)](https://www.linkedin.com/in/https://www.linkedin.com/in/yash-chandrani-0618711b3//) 
+[![Linkedin](https://img.shields.io/badge/-https://www.linkedin.com/in/yash-chandrani-0618711b3/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/yash-chandrani-0618711b3//)](https://www.linkedin.com/in/https://www.linkedin.com/in/yash-chandrani-0618711b3//) 
 [![Twitter Badge](https://img.shields.io/badge/-@-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/) 
 [![Facebook Badge](https://img.shields.io/badge/--3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/)](https://www.facebook.com/) 
 [![Instagram Badge](https://img.shields.io/badge/-@-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/)](https://www.instagram.com/) 
