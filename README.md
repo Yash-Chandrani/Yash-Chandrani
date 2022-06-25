@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 <br>
 
 ![](https://komarev.com/ghpvc/?username=Yash-Chandrani&color=blue)<br>
-<h3>I am a computer science student at Indus University, a member at Rotaract Club currently focusing on Spring framework in Java. I am a cloud enthusiast exploring in devops and cloud space.</h3><br>
+<h3>I am a computer science student at Indus University. I tell computers to do things. Sometimes, they listen.</h3><br>
 
 - 😄 Pronouns: He/Him
 - 👨‍🏭 I’m currently pursuing **Computer Science and Engineering** <br>
 - 🏫 I’m currently learning **Backend Development with Spring framework in Java** <br>
-- 🤔 I’m looking for help with **Devops and Cloud computing**<br>
-- 🥅 2021 Goals: **Being proficient with Linux, get into Devops pick a project in GSOC and start using and contributing to it.** <br>
+- 🤔 I’m looking for help with **Devops and Blockchain**<br>
+<!-- - 🥅 2021 Goals: **Being proficient with Linux, get into Devops pick a project in GSOC and start using and contributing to it.** <br> -->
 <br>
 🕵 Take a look at my repositories and let's get in touch!<br>
 <br>
