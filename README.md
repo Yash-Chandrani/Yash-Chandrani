@@ -15,18 +15,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi ,I Am Yash! <img src=" https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px"> <br> <br>
-![](https://komarev.com/ghpvc/?username=Yash-Chandrani&color=blue)<br>
-<h3>I am a computer science student at Indus University. I tell computers to do things. Sometimes, they listen.</h3><br>
 
-- 😄 Pronouns: He/Him
-- 👨‍🏭 I’m currently pursuing **Computer Science and Engineering** <br>
-- 🏫 I’m currently learning **Backend development in Javascript** <br>
-<!-- - 🥅 2022 Goals: **Being proficient with Linux, get into Devops pick a project in GSOC and start using and contributing to it.** <br> -->
-<br>
+# Hi, I'm Yash ! 👋
+
+
+## 🚀 About Me
+I am a computer science student at Indus University and I usually work with backend development.  I tell computers to do things. Sometimes, they listen.
+
+👩‍💻 I'm currently working on .NET framework 
+
+💬 Ask me about: Fiction books, Tech
+
+😄 Pronouns: He/Him
+
+
+## 🛠 Skills
+Java, Spring framework, C#, Html, CSS, JavaScript
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-chandrani-0618711b3/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yash_chandrani)
+
+
 🕵 Take a look at my repositories and let's get in touch!<br>
 <br>
-### 📈 Github Stats:
+### Github Stats 📈:
 <hr>
 <a href="https://github.com/Yash-Chandrani">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yash-Chandrani&show_icons=true&include_all_commits=true&theme=midnight-purple&count_private=true">
