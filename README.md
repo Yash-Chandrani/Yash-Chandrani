@@ -1,54 +1,70 @@
-<!--
-**Yash-Chandrani/Yash-Chandrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Yash Chandrani 👋
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
--->
+- 🎓 Currently pursuing Master of Computer Science (Security track) at North Carolina State University (August 2023 - May 2025)
+- 💼 Software Developer with experience in web development, security analysis, and cloud computing
+- 🌱 Passionate about technology, security, and innovation
 
 
-# Hi, I'm Yash ! 👋
+## Skills
 
+- **Programming Languages:** Java, C#, Python, JavaScript, C++, HTML, CSS
+- **Frameworks and Libraries:** .NET, Spring Boot, Flask, Bootstrap, React.js, Node.js, Next.js
+- **Databases:** Microsoft SQL Server, MySQL, PostgreSQL, SQLite, MongoDB
+- **Tools and Platforms:** Microsoft Azure, Azure DevOps, AWS S3, AWS EC2, Docker, GitHub Actions, Selenium WebDriver
+- **Security Tools:** OWASP ZAP, SonarQube, Snyk, Gitleaks, Ghidra, Nmap, BurpSuite
+- **Operating Systems:** Windows, Ubuntu, Fedora, Kali Linux
+- **Other Skills:** Web Scraping, Object-Oriented Programming, Shell Scripting, Vulnerability Analysis, Threat Modelling
 
-## 🚀 About Me
-I am a computer science student at Indus University and I usually work with backend development.  I tell computers to do things. Sometimes, they listen.
+## Work Experience
 
-👩‍💻 I'm currently working on .NET framework 
+### Research Assistant
+**North Carolina State University** (September 2024 - Present)
+- Designing solutions to identify and mitigate potential vulnerabilities and security risks in the software supply chain
+- Leveraging static and dynamic analysis techniques and integrating best practices to enhance code security
+- Conducted automated testing using Google Cloud and Python, improving vulnerability detection in software artifacts
 
-💬 Ask me about: Fiction books, Tech
+### Web Developer
+**Bombay Engineering Syndicate** (May 2024 - July 2024)
+- Developed a dynamic website utilizing Next.js and TypeScript, implementing SEO best practices and improving UI/UX, which boosted online traffic by 25%
+- Developed an Offer Generation System with a C# .NET backend and SQL database, integrated with a responsive frontend, to automate and centralize quotation making on a single platform, reducing sales team workload by 2 hours per day and decreasing manual errors
+- Configured CI/CD pipelines and implemented autoscaling utilizing Azure DevOps and Azure App Service, ensuring a secure production environment with 99.9% uptime
+- Automated build and release workflows through Microsoft Azure DevOps and streamlined container orchestration with Docker and Kubernetes, reducing deployment time
+- Collaborated with cross-functional teams, including designers and stakeholders, to deliver quality software solutions on time
 
-😄 Pronouns: He/Him
+### .NET Developer Trainee
+**SMG Infosolutions** (January 2023 - April 2023)
+- Developed and integrated multiple modules for a custom engineering order management system using .NET, HTML, CSS, JavaScript, and MS SQL, streamlining order workflows and reducing handling time
+- Built a real-time chat feature leveraging .NET Web API for RESTful services and SignalR, enhancing in-app communication and collaboration with seamless real-time messaging
+- Optimized SQL Server operations by writing efficient queries and stored procedures, reducing data retrieval time by 30%
+- Streamlined key workflows, such as report generation and data synchronization, in a full-stack web application working with C#, .NET, and JavaScript, cutting manual effort by 10%
+- Created responsive dashboards and user interfaces leveraging modern front-end frameworks, enhancing user experience
 
+## Projects
 
-## 🛠 Skills
-Java, Spring framework, C#, Html, CSS, JavaScript
+### Slash (Python Web Development)
+**Technologies:** Python, Flask, BeautifulSoup, HTML, CSS, JavaScript
+- Augmented an e-commerce web scraping tool with Python and Flask, adding search filters, user profiles, and authentication
+- Established automated testing workflows with GitHub Actions, increasing test coverage by 25%
 
+### OpenEMR Security Review (Software Security Testing)
+**Technologies:** OWASP ZAP, SonarQube, PHP
+- Performed Vulnerability Analysis and Penetration Testing (VAPT) of OpenEMR, an open-source PHP based EHR
+- Identified two critical vulnerabilities and proposed security patches, enhancing the application’s security posture
+- Performed static analysis using SonarQube, dynamic analysis with Zaproxy, and secret detection with Snyk and Gitleaks
 
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-chandrani-0618711b3/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yash_chandrani)
+### HackStats (GraphQL/Python Scripting)
+**Technologies:** Python, GraphQL, GitHub, GitLab, Flask, React, TypeScript
+- Devised Python scripts for querying user metrics from GitHub and GitLab through their GraphQL APIs with Python
+- Spearheaded frontend development using React and TypeScript, enabling metric visualization and improving user experience
 
+## Get in Touch
 
-🕵 Take a look at my repositories and let's get in touch!<br>
-<br>
-### Github Stats 📈:
-<hr>
-<a href="https://github.com/Yash-Chandrani">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yash-Chandrani&show_icons=true&include_all_commits=true&theme=midnight-purple&count_private=true">
-</a>
-<a href="https://github.com/remcohalman/github-readme-stats"><br>
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Yash-Chandrani&layout=compact&theme=blue-green" />
-</a>
-<br>
-<br>
+- [GitHub](https://github.com/Yash-Chandrani)
+- [LinkedIn](https://www.linkedin.com/in/yash-chandrani-0618711b3/)
+- [Twitter](https://twitter.com/YashChandrani)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yash-Chandrani)](https://git.io/streak-stats)
+Feel free to reach out if you want to collaborate on a project or just want to connect!
 
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash-Chandrani&show_icons=true&theme=radical)
