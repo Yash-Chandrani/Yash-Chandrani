@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🎓 Currently pursuing Master of Computer Science (Security track) at North Carolina State University (August 2023 - May 2025)
+- 🎓 Recently graduated with Master of Computer Science (Security track) at North Carolina State University (August 2023 - May 2025)
 - 💼 Software Developer with experience in web development, security analysis, and cloud computing
 - 🌱 Passionate about technology, security, and innovation
 
